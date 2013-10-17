@@ -1,0 +1,214 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass armenian-article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Tarea N°1
+\end_layout
+
+\begin_layout Author
+Adrian Gutierres, Valery Soto L, Miguel Marabolí M.
+\end_layout
+
+\begin_layout Date
+17/10/2013
+\end_layout
+
+\begin_layout Section
+Modelo Cascada 
+\end_layout
+
+\begin_layout Paragraph
+Este, aunque es más comúnmente conocido como modelo en cascada es también
+ llamado modelo clásico, modelo tradicional o modelo lineal secuencial.
+ El modelo en cascada puro difícilmente se utiliza tal cual, pues esto implicarí
+a un previo y absoluto conocimiento de los requisitos, la no volatilidad
+ de los mismos (o rigidez) y etapas subsiguientes libres de errores; ello
+ sólo podría ser aplicable a escasos y pequeños sistemas a desarrollar.
+ En estas circunstancias, el paso de una etapa a otra de las mencionadas
+ sería sin retorno, por ejemplo pasar del diseño a la codificación implicaría
+ un diseño exacto y sin errores ni probable modificación o evolución: codifique
+ lo diseñado sin errores, no habrá en absoluto variantes futuras.
+ Esto es utópico; ya que intrínsecamente el software es de carácter evolutivo
+ , cambiante y difícilmente libre de errores, tanto durante su desarrollo
+ como durante su vida operativa.
+ 
+\end_layout
+
+\begin_layout Subsection
+Desventajas del modelo cascada: 
+\end_layout
+
+\begin_layout Enumerate
+Los cambios introducidos durante el desarrollo pueden confundir al equipo
+ profesional en las etapas tempranas del proyecto.
+ Si los cambios se producen en etapa madura (codificación o prueba) pueden
+ ser catastróficos para un proyecto grande.
+ 
+\end_layout
+
+\begin_layout Enumerate
+No es frecuente que el cliente o usuario final explicite clara y completamente
+ los requisitos (etapa de inicio); y el modelo lineal lo requiere.
+ La incertidumbre natural en los comienzos es luego difícil de acomodar.
+ 
+\end_layout
+
+\begin_layout Enumerate
+El cliente debe tener paciencia ya que el software no estará disponible
+ hasta muy avanzado el proyecto.
+ Un error detectado por el cliente (en fase de operación) puede ser desastroso,
+ implicando reinicio del proyecto, con altos costos.
+ 
+\end_layout
+
+\begin_layout Section
+Metodología Scrum 
+\end_layout
+
+\begin_layout Subsection
+¿Qué es?
+\end_layout
+
+\begin_layout Paragraph
+Scrum es una metodología ágil y flexible para gestionar el desarrollo de
+ software, cuyo principal objetivo es maximizar el retorno de la inversión
+ para su empresa (ROI).
+ Se basa en construir primero la funcionalidad de mayor valor para el cliente
+ y en los principios de inspección continua, adaptación, auto-gestión e
+ innovación.
+ 
+\end_layout
+
+\begin_layout Subsection
+¿Cuándo se utiliza?
+\end_layout
+
+\begin_layout Paragraph
+Con la metodología Scrum el cliente se entusiasma y se compromete con el
+ proyecto dado que lo ve crecer iteración a iteración.
+ Asimismo le permite en cualquier momento realinear el software con los
+ objetivos de negocio de su empresa, ya que puede introducir cambios funcionales
+ o de prioridad en el inicio de cada nueva iteración sin ningún problema.
+\end_layout
+
+\begin_layout Paragraph
+Esta metódica de trabajo promueve la innovación, motivación y compromiso
+ del equipo que forma parte del proyecto, por lo que los profesionales encuentra
+n un ámbito propicio para desarrollar sus capacidades.
+ 
+\end_layout
+
+\begin_layout Subsection
+Beneficios 
+\end_layout
+
+\begin_layout Enumerate
+Cumplimento de expectativas: El cliente establece sus expectativas indicando
+ el valor que le aporta cada requisito / historia del proyecto, el equipo
+ los estima y con esta información el Product Ownerestablece su prioridad.
+ De manera regular, en las demos de Sprint el Product Owner comprueba que
+ efectivamente los requisitos se han cumplido y transmite se feedback al
+ equipo.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Flexibilidad a cambios: Alta capacidad de reacción ante los cambios de requerimi
+entos generados por necesidades del cliente o evoluciones del mercado.
+ La metodología está diseñada para adaptarse a los cambios de requerimientos
+ que conllevan los proyectos complejos.
+ • Reducción del Time to Market: El cliente puede empezar a utilizar las
+ funcionalidades más importantes del proyecto antes de que esté finalizado
+ por completo.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Mayor calidad del software: La metódica de trabajo y la necesidad de obtener
+ una versión funcional después de cada iteración, ayuda a la obtención de
+ un software de calidad superior.
+ • Mayor productividad: Se consigue entre otras razones, gracias a la eliminació
+n de la burocracia y a la motivación del equipo que proporciona el hecho
+ de que sean autónomos para organizarse.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Maximiza el retorno de la inversión (ROI): Producción de software únicamente
+ con las prestaciones que aportan mayor valor de negocio gracias a la priorizaci
+ón por retorno de inversión.
+ • Predicciones de tiempos: Mediante esta metodología se conoce la velocidad
+ media del equipo por sprint (los llamados puntos historia), con lo que
+ consecuentemente, es posible estimar fácilmente para cuando se dispondrá
+ de una determinada funcionalidad que todavía está en el Backlog.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Reducción de riesgos: El hecho de llevar a cabo las funcionalidades de más
+ valor en primer lugar y de conocer la velocidad con que el equipo avanza
+ en el proyecto, permite despejar riesgos eficazmente de manera anticipada.
+ 
+\end_layout
+
+\end_body
+\end_document
