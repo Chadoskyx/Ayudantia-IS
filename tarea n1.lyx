@@ -222,12 +222,6 @@ Reducción de riesgos: El hecho de llevar a cabo las funcionalidades de más
 \end_layout
 
 \begin_layout Standard
-\begin_inset Float table
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
 \begin_inset Tabular
 <lyxtabular version="3" rows="5" columns="2">
 <features tabularvalignment="middle">
@@ -238,6 +232,8 @@ status open
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size scriptsize
 Scrum
 \end_layout
 
@@ -247,6 +243,8 @@ Scrum
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size scriptsize
 Cascada
 \end_layout
 
@@ -258,6 +256,8 @@ Cascada
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size scriptsize
 Plan estructurado por etapas
 \end_layout
 
@@ -267,6 +267,8 @@ Plan estructurado por etapas
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size scriptsize
 Plan estructurado desde los inicios al fin
 \end_layout
 
@@ -278,6 +280,8 @@ Plan estructurado desde los inicios al fin
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size scriptsize
 Adaptable a los cambios
 \end_layout
 
@@ -287,6 +291,8 @@ Adaptable a los cambios
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size scriptsize
 Muy rigido al enfrentarse a cambios
 \end_layout
 
@@ -298,6 +304,8 @@ Muy rigido al enfrentarse a cambios
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size scriptsize
 Comunicacion continua entre Equipo de desarrollo y cliente
 \end_layout
 
@@ -307,6 +315,8 @@ Comunicacion continua entre Equipo de desarrollo y cliente
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size scriptsize
 Poca comunicacion entre el cliente y desarrollador del producto
 \end_layout
 
@@ -318,6 +328,8 @@ Poca comunicacion entre el cliente y desarrollador del producto
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size scriptsize
 Bajo nivel de proyectos comprometidos
 \end_layout
 
@@ -327,6 +339,8 @@ Bajo nivel de proyectos comprometidos
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size scriptsize
 Nivel medio de proyectos comprometidos
 \end_layout
 
@@ -334,23 +348,6 @@ Nivel medio de proyectos comprometidos
 </cell>
 </row>
 </lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption
-
-\begin_layout Plain Layout
-Scrum v/s Cascada
-\end_layout
-
-\end_inset
-
-
-\end_layout
 
 \end_inset
 
