@@ -27,13 +27,13 @@
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize default
+\papersize a4paper
 \use_geometry false
 \use_amsmath 1
 \use_esint 1
 \use_mhchem 1
 \use_mathdots 1
-\cite_engine basic
+\cite_engine natbib_authoryear
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
@@ -176,9 +176,12 @@ Flexibilidad a cambios: Alta capacidad de reacción ante los cambios de requerim
 entos generados por necesidades del cliente o evoluciones del mercado.
  La metodología está diseñada para adaptarse a los cambios de requerimientos
  que conllevan los proyectos complejos.
- • Reducción del Time to Market: El cliente puede empezar a utilizar las
- funcionalidades más importantes del proyecto antes de que esté finalizado
- por completo.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Reducción del Time to Market: El cliente puede empezar a utilizar las funcionali
+dades más importantes del proyecto antes de que esté finalizado por completo.
  
 \end_layout
 
@@ -186,8 +189,12 @@ entos generados por necesidades del cliente o evoluciones del mercado.
 Mayor calidad del software: La metódica de trabajo y la necesidad de obtener
  una versión funcional después de cada iteración, ayuda a la obtención de
  un software de calidad superior.
- • Mayor productividad: Se consigue entre otras razones, gracias a la eliminació
-n de la burocracia y a la motivación del equipo que proporciona el hecho
+ 
+\end_layout
+
+\begin_layout Enumerate
+Mayor productividad: Se consigue entre otras razones, gracias a la eliminación
+ de la burocracia y a la motivación del equipo que proporciona el hecho
  de que sean autónomos para organizarse.
  
 \end_layout
@@ -196,7 +203,11 @@ n de la burocracia y a la motivación del equipo que proporciona el hecho
 Maximiza el retorno de la inversión (ROI): Producción de software únicamente
  con las prestaciones que aportan mayor valor de negocio gracias a la priorizaci
 ón por retorno de inversión.
- • Predicciones de tiempos: Mediante esta metodología se conoce la velocidad
+ 
+\end_layout
+
+\begin_layout Enumerate
+Predicciones de tiempos: Mediante esta metodología se conoce la velocidad
  media del equipo por sprint (los llamados puntos historia), con lo que
  consecuentemente, es posible estimar fácilmente para cuando se dispondrá
  de una determinada funcionalidad que todavía está en el Backlog.
@@ -208,6 +219,157 @@ Reducción de riesgos: El hecho de llevar a cabo las funcionalidades de más
  valor en primer lugar y de conocer la velocidad con que el equipo avanza
  en el proyecto, permite despejar riesgos eficazmente de manera anticipada.
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0pt">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Scrum
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Cascada
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Plan estructurado por etapas
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Plan estructurado desde los inicios al fin
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Adaptable a los cambios
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Muy rigido al enfrentarse a cambios
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Comunicacion continua entre Equipo de desarrollo y cliente
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Poca comunicacion entre el cliente y desarrollador del producto
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Bajo nivel de proyectos comprometidos
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Nivel medio de proyectos comprometidos
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Scrum v/s Cascada
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Anexos
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset href
+LatexCommand href
+name "Repositorio"
+target "https://github.com/Chadoskyx/Ayudantia-IS.git"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
