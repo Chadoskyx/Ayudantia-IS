@@ -1,0 +1,31 @@
+Los patrones de diseño, son la base para la búsqueda de soluciones a problemas comunes en el desarrollo de software y a otros ámbitos referentes al diseño de interacción o interfaces.
+
+Un patrón de diseño resulta ser una solución a un problema de diseño. Para que una solución sea considerada, un patrón debe poseer ciertas características, una de ellas es que debe haber comprobado su efectividad resolviendo problemas similares en ocasiones anteriores. Otra es que debe ser reutilizable, lo que significa que es aplicable a diferentes problemas de diseño en distintas circunstancias.
+
+Actualmente las características del software son que sea facil de usar, que tenga variadas funcionalidades y que tenga una atractiva interfaz de usuario. Por lo tanto, es realmente necesario tener un patrón de como diseñar.
+
+Los principios del diseño tienen su origen en la teoría, la experiencia y el sentido común. Algunos descritos por Don Norman (1998) son:
+
+* Visibilidad: Si las funciones son visibles, serán usadas.
+
+* Retroalimentación: El principio de acción y reacción.
+
+* Restricciones: Limitaciones en la interacción con el usuario, de manera que pueden ser físicas, lógicas o culturales.
+
+* Mapeo: Relación entre los controles y sus efectos.
+
+* Consistencia: Diseño basado en elementos similares.
+
+* Claridad: Entender cómo usar el diseño, puede ser real o percibida.
+
+Los objetivos de los patrones de diseño son reutilizar elementos del diseño de software, no crear cosas que ya están hechas, tener un idioma común entre desarrolladores, estandarizar el modo de diseñar software y facilitar el aprendizaje para las generaciones venideras.
+
+Tipos de patrones:
+
+* Patrones Creacionales
+
+* Patrones Estructurales
+
+* Patrones Comportamiento
+
+* Patrones Interacción 
